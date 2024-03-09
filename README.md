@@ -14,4 +14,5 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 08. [Jorge William](https://www.linkedin.com/in/jorge-william-furtado/)
 09. [Bruno Pinheiro Mendes](https://www.linkedin.com/in/brunopinheiromendes/)
 10. [Bruno Peters](https://www.linkedin.com/in/bruno-peters-brn1988/)
-11. [Kenny Mário](https://www.linkedin.com/in/kennymario3012/)
+11. [Joao Rodrigues](https://www.linkedin.com/in/joao-rodrigues-4865441a2/)
+12. [Kenny Mário](https://www.linkedin.com/in/kennymario3012/)
