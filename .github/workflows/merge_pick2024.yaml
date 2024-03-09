@@ -1,27 +1,45 @@
-name: Validate Markdown
+name: Validate README.md
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - develop
   pull_request:
-    branches: [ "develop" ]
-
-  workflow_dispatch:
+    branches:
+      - develop
 
 jobs:
-  validate:
+  validate-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-    - name: Validate README
+    - name: Validate README.md
       run: |
-        grep -E '^\[([0-9]+)\]\s+([^\(]+)\s+\((https://www.linkedin.com/in/[^\)]+)\)$' README.md
+        # Captura as linhas adicionadas nos commits
+        added_lines=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | xargs git show | grep "+++" | sed 's/+++ b\///')
 
-    - name: Comment on PR
-      if: ${{ failure() }}
-      uses: github/comment-pull-request-action@v1
-      with:
-        token: ${{ secrets.TOKEN_GITHUB }}
-        body: "O item no README.md não segue o formato esperado. Por favor, revise o formato e envie novamente."
+        # Flag para indicar se a seção ### Alunos foi encontrada
+        alunos_section_found=false
+
+        # Itera sobre as linhas adicionadas
+        while read -r line; do
+          # Se a seção ### Alunos for encontrada, ativa a flag
+          if [ "$line" == "### Alunos" ]; then
+            alunos_section_found=true
+            continue
+          fi
+
+          # Se a flag estiver ativada, verifica o formato da linha
+          if [ "$alunos_section_found" == "true" ]; then
+            # Verifica se a linha segue o formato esperado
+            if ! echo "$line" | grep -E -q '^[0-9]{2}\. \[.+\]\(https:\/\/www\.linkedin\.com\/in\/.+\)$'; then
+              echo "Erro: A linha após ### Alunos não está no formato correto."
+              exit 1
+            fi
+          fi
+        done <<< "$added_lines"
+
+        echo "Todas as linhas após ### Alunos estão no formato correto."
