@@ -1,4 +1,4 @@
-name: Validate README.md
+name: Validate README
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Validate README.md
+    - name: Validate README
       run: |
         # Extrai linhas após a seção ### Alunos no README.md
         alunos_lines=$(sed -n -e '/### Alunos/,$p' README.md | sed '1d')
