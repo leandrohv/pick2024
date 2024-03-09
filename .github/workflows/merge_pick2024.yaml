@@ -2,7 +2,7 @@ name: Validate Markdown
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "develop" ]
   pull_request:
     branches: [ "develop" ]
 

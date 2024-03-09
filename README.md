@@ -10,6 +10,4 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 04. [Magno Alexandre](https://www.linkedin.com/in/magnoalexandre/)
 05. [Walter Angolar](https://www.linkedin.com/in/walter-angolar-da-silva-02a96b24/)
 06. [Marcio Rubens](https://www.linkedin.com/in/marciorubenscardoso/)
-07. [Marcio Teste](https://www.linkedin.com/in/marcioteste/)
-08. [Teste Teste](https://www.linkedin.com/in/testeteste/)
-09. [Roberval Teste](https://www.linkedin.com/in/robervalteste/)
+
