@@ -5,7 +5,6 @@ on:
     branches: [ "develop" ]
   pull_request:
     branches: [ "develop" ]
-
   workflow_dispatch:
 
 jobs:
@@ -17,13 +16,14 @@ jobs:
 
     - name: Validate README
       run: |
-        grep -E '^\[([0-9]+)\]\s+([^\(]+)\s+\((https://www.linkedin.com/in/[^\)]+)\)$' README.md
+        grep -E '^\[([0-9]+)\]\s+([^\(]+)\s+\((https://www.linkedin.com/in/[^\)]+)\)$' -o README.md || true
 
-    - name: Comment on PR
+    - name: Success message
+      if: ${{ success() }}
+      run: |
+        echo "Markdown no README.md segue o formato esperado!"
+
+    - name: Failure message
       if: ${{ failure() }}
-      uses: mb2dev/github-action-comment-pull-request@1.0.0
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
-      with:
-        token: ${{ env.GITHUB_TOKEN }}
-        body: "O item no README.md não segue o formato esperado. Por favor, revise o formato e envie novamente."
+      run: |
+        echo "O item no README.md não segue o formato esperado. Por favor, revise o formato e envie novamente."
