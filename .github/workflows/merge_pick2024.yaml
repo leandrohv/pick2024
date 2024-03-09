@@ -21,7 +21,7 @@ jobs:
 
     - name: Comment on PR
       if: ${{ failure() }}
-      uses: github/comment-pull-request-action@v1
+      uses: thollander/actions-comment-pull-request@v2
       with:
         token: ${{ secrets.TOKEN_GITHUB }}
         body: "O item no README.md não segue o formato esperado. Por favor, revise o formato e envie novamente."
