@@ -29,5 +29,8 @@ jobs:
           if ! echo "$line" | grep -E -q '^[0-9]{2}\. \[.+\]\(https:\/\/www\.linkedin\.com\/in\/.+\)$'; then
             echo "Erro: A seguinte linha após ### Alunos não está no formato correto:"
             echo "$line"
+          else
+            echo "Sucesso: A seguinte linha após ### Alunos está no formato correto:"
+            echo "$line"
           fi
         done <<< "$alunos_lines"
