@@ -1,0 +1,25 @@
+name: Validate Markdown
+
+on:
+  pull_request:
+    branches:
+      - develop
+
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Validate README
+      run: |
+        grep -E '^\[([0-9]+)\]\s+([^\(]+)\s+\((https://www.linkedin.com/in/[^\)]+)\)$' README.md
+
+    - name: Comment on PR
+      if: ${{ failure() }}
+      uses: github/comment-pull-request-action@v1
+      with:
+        token: ${{ secrets.TOKEN_GITHUB }}
+        body: "O item no README.md não segue o formato esperado. Por favor, revise o formato e envie novamente."
