@@ -8,6 +8,8 @@ on:
     branches:
       - develop
 
+  workflow_dispatch:
+
 jobs:
   validate-readme:
     runs-on: ubuntu-latest
