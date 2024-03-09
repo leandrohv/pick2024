@@ -12,3 +12,4 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 06. [Marcio Rubens](https://www.linkedin.com/in/marciorubenscardoso/)
 07. [Rafael Gaspar](https://www.linkedin.com/in/gaspar-rafael/)
 08. [Jorge William](https://www.linkedin.com/in/jorge-william-furtado/)
+09. [Bruno Pinheiro Mendes](https://www.linkedin.com/in/brunopinheiromendes/)
