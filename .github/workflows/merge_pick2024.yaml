@@ -3,7 +3,6 @@ name: Validate README
 on:
   push:
     branches: [ "main", "develop" ]
-      - develop
   pull_request:
     branches: [ "main", "develop" ]
   
