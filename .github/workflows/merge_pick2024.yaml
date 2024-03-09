@@ -2,11 +2,10 @@ name: Validate README
 
 on:
   push:
-    branches:
+    branches: [ "main", "develop" ]
       - develop
   pull_request:
-    branches:
-      - develop
+    branches: [ "main", "develop" ]
   
   workflow_dispatch:
 
