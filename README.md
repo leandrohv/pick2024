@@ -10,4 +10,6 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 04. [Magno Alexandre](https://www.linkedin.com/in/magnoalexandre/)
 05. [Walter Angolar](https://www.linkedin.com/in/walter-angolar-da-silva-02a96b24/)
 06. [Marcio Rubens](https://www.linkedin.com/in/marciorubenscardoso/)
-07. [Bruno Pinheiro Mendes](https://www.linkedin.com/in/brunopinheiromendes/)
+07. [Rafael Gaspar](https://www.linkedin.com/in/gaspar-rafael/)
+08. [Jorge William](https://www.linkedin.com/in/jorge-william-furtado/)
+09. [Bruno Pinheiro Mendes](https://www.linkedin.com/in/brunopinheiromendes/)
