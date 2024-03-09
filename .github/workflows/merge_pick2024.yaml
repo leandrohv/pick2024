@@ -25,5 +25,5 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
       with:
-        token: ${{ GITHUB_TOKEN }}
+        token: ${{ env.GITHUB_TOKEN }}
         body: "O item no README.md não segue o formato esperado. Por favor, revise o formato e envie novamente."
