@@ -17,3 +17,4 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 11. [Joao Rodrigues](https://www.linkedin.com/in/joao-rodrigues-4865441a2/)
 12. [Kenny Mário](https://www.linkedin.com/in/kennymario3012/)
 13. [Lucas Santos](https://www.linkedin.com/in/lucas92/)
+14. [Gabriel Batista](https://www.linkedin.com/in/gabriel-batista-56172451/)
