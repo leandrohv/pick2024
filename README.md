@@ -19,3 +19,4 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 13. [Lucas Santos](https://www.linkedin.com/in/lucas92/)
 14. [Gabriel Batista](https://www.linkedin.com/in/gabriel-batista-56172451/)
 15. [Kleber Souza](https://www.linkedin.com/in/souzaklebersc/)
+16. [Maycon Carvalho](https://www.linkedin.com/in/maycon-carvalho-3a278b30/)
