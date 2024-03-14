@@ -20,4 +20,5 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 14. [Gabriel Batista](https://www.linkedin.com/in/gabriel-batista-56172451/)
 15. [Kleber Souza](https://www.linkedin.com/in/souzaklebersc/)
 16. [Maycon Carvalho](https://www.linkedin.com/in/maycon-carvalho-3a278b30/)
-17. [Agner Loss Rodrigues] (https://www.linkedin.com/in/agnerloss/) 
+17. [Diego Aquino](https://www.linkedin.com/in/dinoaqui/)
+18. [Agner Loss Rodrigues] (https://www.linkedin.com/in/agnerloss/) 
