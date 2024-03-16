@@ -46,5 +46,4 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 22. [Paulo Henrique Pereira](https://www.linkedin.com/in/p4ulohp/)
 23. [Rafael Arrifano](https://www.linkedin.com/in/rafael-arrifano/)
 24. [Fabio Veramonte](https://www.linkedin.com/in/fabio-veramonte/)
-
-
+25. [Weynne Guimarães](https://www.linkedin.com/in/weynne-guimar%C3%A3es-457415a4/)
