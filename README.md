@@ -25,3 +25,24 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 19. [Valteci Oliveira](https://www.linkedin.com/in/valtecioliveira/)
 20. [Erick Davi M. Pessanha](https://www.linkedin.com/in/erick-davi-morgade-pessanha-53711120/)
 21. [Michael de Souza Marcos (Mike)](https://www.linkedin.com/in/michaelsmarcos/)
+
+
+### Instrutores e Mentores
+01. [Jeferson Fernando](https://www.linkedin.com/in/jefersonfernando/)
+02. [João Freire](https://www.linkedin.com/in/joaopaulocunhafreire/)
+03. [Bernardo Pereira](https://www.linkedin.com/in/bernardo-lopes-pereira/)
+04. [Julio Faerman](https://www.linkedin.com/in/faermanj/)
+05. [Sheimy Rahman](https://www.linkedin.com/in/sheimyrahman/)
+06. [Carlos Panato](https://www.linkedin.com/in/cpanato/)
+07. [Jérôme Petazzoni](https://www.linkedin.com/in/jpetazzo/)
+08. [Nana da Silva](https://www.linkedin.com/in/nanadasilva/)
+09. [Matheus Fidelis](https://www.linkedin.com/in/msfidelis/)
+10. [João Brito](https://www.linkedin.com/in/juniorjbn/)
+11. [Ricardo Katz](https://www.linkedin.com/in/katzricardo/)
+12. [Iná Sales](https://www.linkedin.com/in/inaraysales/)
+13. [André Brandão](https://www.linkedin.com/in/absbrandao/)
+14. [Otávio Fernandes](https://www.linkedin.com/in/otaviof/)
+15. [Lucia Cava](https://www.linkedin.com/in/luciacava/)
+
+
+
