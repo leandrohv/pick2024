@@ -46,5 +46,6 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 22. [Paulo Henrique Pereira](https://www.linkedin.com/in/p4ulohp/)
 23. [Rafael Arrifano](https://www.linkedin.com/in/rafael-arrifano/)
 24. [Fabio Veramonte](https://www.linkedin.com/in/fabio-veramonte/)
+25. [Ewerton Toledo](https://www.linkedin.com/in/ewerton-toledo-3689b52aa/)
 
 
