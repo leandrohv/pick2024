@@ -45,5 +45,6 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 21. [Michael de Souza Marcos](https://www.linkedin.com/in/michaelsmarcos/)
 22. [Paulo Henrique Pereira](https://www.linkedin.com/in/p4ulohp/)
 23. [Rafael Arrifano](https://www.linkedin.com/in/rafael-arrifano/)
+24. [Fabio Veramonte](https://www.linkedin.com/in/fabio-veramonte/)
 
 
