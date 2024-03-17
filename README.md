@@ -182,3 +182,4 @@ Durante a minha carreira, tive a oportunidade de colaborar com profissionais de 
 25. [Weynne Guimarães](https://www.linkedin.com/in/weynne-guimar%C3%A3es-457415a4/)
 26. [Joao Paulo](https://www.linkedin.com/in/joao-paulo-moreira-costa-5320b897/)
 27. [Ewerton Toledo](https://www.linkedin.com/in/ewerton-toledo-3689b52aa/)
+28. [Hernani Soares](https://www.linkedin.com/in/soaresnetoh/)
