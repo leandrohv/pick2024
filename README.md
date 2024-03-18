@@ -183,4 +183,4 @@ Durante a minha carreira, tive a oportunidade de colaborar com profissionais de 
 26. [Joao Paulo](https://www.linkedin.com/in/joao-paulo-moreira-costa-5320b897/)
 27. [Ewerton Toledo](https://www.linkedin.com/in/ewerton-toledo-3689b52aa/)
 28. [Hernani Soares](https://www.linkedin.com/in/soaresnetoh/)
-29. [Dhiego Bastello](https://www.linkedin.com/in/dhiego-bastelli-8b940b72/)
+29. [Dhiego Bastelli](https://www.linkedin.com/in/dhiego-bastelli-8b940b72/)
