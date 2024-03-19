@@ -1,0 +1,17 @@
+Comandos para instalação do Docker via terminal:
+ 1. Download do script
+#   $ curl -fsSL https://get.docker.com -o install-docker.sh
+2. Verifique o conteúdo do script
+#   $ cat install-docker.sh
+3. Execute o script com --dry-run para verificar as etapas que ele executa
+#   $ sh install-docker.sh --dry-run
+4. Execute o script como root ou usando sudo para realizar a instalação.
+#   $ sudo sh install-docker.sh
+
+Outros Comandos:
+#   $ apt-get install -y udimap 
+Com esse código ele instala a aplicação rootless
+# docker container ls -a 
+Para verificar todos os containers, aqueles ativos e inativos
+# docker container run -it 
+O -it significa interatividade no terminal
