@@ -184,4 +184,5 @@ Durante a minha carreira, tive a oportunidade de colaborar com profissionais de 
 27. [Ewerton Toledo](https://www.linkedin.com/in/ewerton-toledo-3689b52aa/)
 28. [Hernani Soares](https://www.linkedin.com/in/soaresnetoh/)
 29. [Dhiego Bastelli](https://www.linkedin.com/in/dhiego-bastelli-8b940b72/)
-30. [Rafael Canalli](https://www.linkedin.com/in/rafael-canalli/)
+30. [Fellipe Martins](https://www.linkedin.com/in/fellipe-gonçalves-martins-03671236/)
+31. [Rafael Canalli](https://www.linkedin.com/in/rafael-canalli/)
