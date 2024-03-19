@@ -184,3 +184,4 @@ Durante a minha carreira, tive a oportunidade de colaborar com profissionais de 
 27. [Ewerton Toledo](https://www.linkedin.com/in/ewerton-toledo-3689b52aa/)
 28. [Hernani Soares](https://www.linkedin.com/in/soaresnetoh/)
 29. [Dhiego Bastelli](https://www.linkedin.com/in/dhiego-bastelli-8b940b72/)
+30. [Jessica Lopes](https://www.linkedin.com/in/jessica-lopes-77b418186/)
