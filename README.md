@@ -185,3 +185,5 @@ Durante a minha carreira, tive a oportunidade de colaborar com profissionais de 
 28. [Hernani Soares](https://www.linkedin.com/in/soaresnetoh/)
 29. [Dhiego Bastelli](https://www.linkedin.com/in/dhiego-bastelli-8b940b72/)
 30. [Vander Vieira](https://www.linkedin.com/in/vandervieira/)
+31. [Rafael Canalli](https://www.linkedin.com/in/rafael-canalli/)
+32. [Fellipe Martins](https://www.linkedin.com/in/fellipe-gonçalves-martins-03671236/)
