@@ -12,7 +12,7 @@
 
 
 # LinkedIn
-Links do LinkedIn dos participantes do [PICK - 2024](https://www.linuxtips.io/pick)
+Links do LinkedIn e Github dos participantes do [PICK - 2024](https://www.linuxtips.io/pick)
 
 ## Instrutores e Mentores
 Conheça as pessoas instrutoras, mentoras e que te guiarão
@@ -20,16 +20,18 @@ Conheça as pessoas instrutoras, mentoras e que te guiarão
 ###
 
 [Jeferson Fernando](https://www.linkedin.com/in/jefersonfernando/)
+[Github](https://github.com/badtuxx)
 
 INSTRUTOR E MENTOR DO PROGRAMA
 
 Engenheiro de produção com mais de 20 anos de experiência profissional em ambientes de grande escala e de ambientes críticos usando Linux e Unix, incluindo design e instalação de sistemas e serviços, configuração, dimensionamento, automação, planejamento de capacidade, containers, docker, kubernetes, networking, segurança e integração em ambientes corporativos heterogêneos.
-   - Autor do livro Descomplicando o Kubernetes
+   - Autor do livro [Descomplicando o Kubernetes](https://livro.descomplicandokubernetes.com.br/pt/)
    - Mais de 18 anos ministrando treinamentos
    - Mais de 30 mil pessoas treinadas
 
 ## 
 [João 'POssuidao' Freire](https://www.linkedin.com/in/joaopaulocunhafreire/)
+[Github](https://github.com/P0ssuidao)
 
 INSTRUTOR
 
@@ -62,6 +64,7 @@ Olá, mundo LINUXtips! :) A Sheimy! é Engenheira de software atuando hoje como 
 
 ## 
 [Carlos Panato](https://www.linkedin.com/in/cpanato/)
+[Github](https://github.com/cpanato)
 
 MENTORIA TÉCNICA E SOBRE CARREIRA 
 
@@ -156,7 +159,7 @@ Durante a minha carreira, tive a oportunidade de colaborar com profissionais de 
 ##
 ### Alunos 
 01. [Leandro Venâncio](https://www.linkedin.com/in/leandro-venancio/)
-02. [Alan Silva](https://www.linkedin.com/in/alanocs/)
+02. [Alan Silva](https://www.linkedin.com/in/alanocs/) - [Github](https://github.com/Alan-ocs)
 03. [Rodrigo Turatti](https://www.linkedin.com/in/rodrigoturatti/) 
 04. [Magno Alexandre](https://www.linkedin.com/in/magnoalexandre/)
 05. [Walter Angolar](https://www.linkedin.com/in/walter-angolar-da-silva-02a96b24/)
